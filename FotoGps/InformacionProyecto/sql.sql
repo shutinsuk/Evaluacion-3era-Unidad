@@ -33,7 +33,6 @@ CREATE TABLE IF NOT EXISTS deliveries (
 );
 
 -- User: agent1 / Password: secret
--- Hash generated with bcrypt cost 12
 INSERT INTO users (username, hashed_password, full_name, is_active) VALUES 
 ('agent1', '$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW', 'Agente Uno', 1);
 

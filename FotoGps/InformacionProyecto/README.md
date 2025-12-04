@@ -76,7 +76,7 @@ Herramientas recomendadas:
    * Usuario de prueba:
 
      * username: agent1
-     * contraseña en texto: 123456
+     * contraseña en texto: secret
        (En la base solo se almacena el hash; la contraseña en texto es para que la uses en el login).
 
 5. Si tu usuario y contraseña de MySQL no son "root" o cambiaste algo:
